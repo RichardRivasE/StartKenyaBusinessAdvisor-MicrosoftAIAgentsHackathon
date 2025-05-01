@@ -2,6 +2,8 @@
 
 *Submission for the Microsoft AI Agents Hackathon*
 
+![Front Cover](./docs/front_cover.png)  
+
 ---
 
 ## 🎯 Overview
