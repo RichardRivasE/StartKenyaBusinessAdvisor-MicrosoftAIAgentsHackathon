@@ -108,3 +108,14 @@ https://data360api.worldbank.org/data360/
 
 5. **Chat at http://localhost:8000**
 
+
+## 🌱 Future Goals
+Extend to other countries and datasets
+
+- Add user personalization and saved workspaces
+
+- Integrate more exponential technologies (blockchain, IoT)
+
+- Enable on-demand expertise for sustainable, well-paying local careers
+
+>_“Striving towards the dream of a world free from poverty on a livable planet, made accessible to individuals at a practical level.”_
