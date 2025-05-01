@@ -47,6 +47,11 @@ Our agent doesn’t just wait for exact instructions—it autonomously:
 
 This autonomy makes it feel like a human assistant—flexible, proactive, and action-oriented.
 
+Note: Base URL for World Bank's API calls might change given continous updates.
+URL used for this project: 
+```
+BASE_WB_URL=https://datacatalogapi.worldbank.org/dexapps/efi/data
+```
 ---
 
 ## 📈 Architecture & Flow
@@ -62,8 +67,8 @@ This autonomy makes it feel like a human assistant—flexible, proactive, and ac
 
 ## 🖼️ Screenshots
 
-![App Screenshot 1](./docs/screenshots/app_screen_1.png)  
-![App Screenshot 2](./docs/screenshots/app_screen_2.png)
+![Querying WB API for Indicators](./docs/Screenshot_1.png)  
+![Searching the web for events to find investors](./docs/Screenshot_2.png)
 
 ---
 
@@ -77,6 +82,20 @@ This autonomy makes it feel like a human assistant—flexible, proactive, and ac
 ## ⚙️ Installation & Usage
 
 1. **Clone the repo**  
-   ```bash
+   ```
    git clone https://github.com/your-org/startkenya-agent.git
    cd startkenya-agent
+   ```
+2. **Create environment and install dependencies**  
+   ```
+   python -m venv venv
+   source venv/bin/activate
+   pip install -r requirements.txt
+   ```
+
+2. **Configure .env file**
+
+   ```
+   GITHUB_TOKEN=your_github_token
+   WB_API_BASE_URL=https://datacatalogapi.worldbank.org/dexapps/efi/data
+   ```
