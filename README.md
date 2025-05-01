@@ -1,4 +1,4 @@
-# StartKenya AI Business Advisor
+# StartKenya Endeleza AI Business Advisor
 
 *Submission for the Microsoft AI Agents Hackathon*
 
