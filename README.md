@@ -1,5 +1,3 @@
-# Microsoft-AI-AgentsHackathon
-
 # StartKenya AI Business Advisor
 
 *Submission for the Microsoft AI Agents Hackathon*
@@ -16,6 +14,11 @@
 
 > _“An AI Agent for young entrepreneurs—transforming complex data into clear, actionable insights to unlock new opportunities.”_
 
+---
+## 🎥 Demo & Pitch Deck
+
+- **Video demo**: [Watch here](<VIDEO_LINK>)  
+- **Pitch deck**: [View here](<PITCH_DECK_LINK>)  
 ---
 
 ## 🌍 Our Mission
@@ -76,13 +79,6 @@ https://data360api.worldbank.org/data360/
 
 ---
 
-## 🎥 Demo & Pitch Deck
-
-- **Video demo**: [Watch here](<VIDEO_LINK>)  
-- **Pitch deck**: [View here](<PITCH_DECK_LINK>)  
-
----
-
 ## ⚙️ Installation & Usage
 
 1. **Clone the repo**  
@@ -97,9 +93,18 @@ https://data360api.worldbank.org/data360/
    pip install -r requirements.txt
    ```
 
-2. **Configure .env file**
+3. **Configure .env file**
 
    ```
    GITHUB_TOKEN=your_github_token
    WB_API_BASE_URL=https://datacatalogapi.worldbank.org/dexapps/efi/data
    ```
+
+4. **Run the app**
+
+   ```
+   chainlit run cl_app.py
+   ```
+
+5. **Chat at http://localhost:8000**
+
