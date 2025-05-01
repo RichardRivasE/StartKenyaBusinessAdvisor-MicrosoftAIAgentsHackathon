@@ -4,7 +4,7 @@
 ---
 ## 🎥 Demo & Pitch Deck
 
-- **Video demo**: [Watch here](<VIDEO_LINK>)  
+- **Video demo**: [Watch here](<https://drive.google.com/file/d/12gvCAuBFbyY9aeldq2xrKlMFlp1ZLsB7/view?usp=sharing>)  
 - **Pitch deck**: [View here](<https://drive.google.com/file/d/1W_6IbqUsEp8BdL34elK-1PlBgH71QGEf/view?usp=sharing>)  
 ---
 ![Front Cover](./docs/front_cover.png)  
