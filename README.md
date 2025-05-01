@@ -52,11 +52,15 @@ URL used for this project:
 ```
 BASE_WB_URL=https://datacatalogapi.worldbank.org/dexapps/efi/data
 ```
+Latest URL:
+```
+https://data360api.worldbank.org/data360/
+```
 ---
 
 ## 📈 Architecture & Flow
 
-![Flow Diagram Placeholder](./docs/flow_diagram.png)
+![Flow Diagram Placeholder](./docs/app_arc.png)
 
 1. **User query** →  
 2. **RAG prompt** + **system prompt** →  
@@ -67,8 +71,8 @@ BASE_WB_URL=https://datacatalogapi.worldbank.org/dexapps/efi/data
 
 ## 🖼️ Screenshots
 
-![Querying WB API for Indicators](./docs/Screenshot 1.png)  
-![Searching the web for events to find investors](./docs/Screenshot 2.png)
+![Querying WB API for Indicators](./docs/Screenshot_1.png)  
+![Searching the web for events to find investors](./docs/Screenshot_2.png)
 
 ---
 
