@@ -120,3 +120,6 @@ Extend to other countries and datasets
 - Enable on-demand expertise for sustainable, well-paying local careers
 
 >_“Striving towards the dream of a world free from poverty on a livable planet, made accessible to individuals at a practical level.”_
+
+
+>_Disclaimer: This project was developed voluntarily by staff members of the World Bank Group and does not represent an official position, product, or endorsement by the institution, its Executive Directors, or the governments they represent_
