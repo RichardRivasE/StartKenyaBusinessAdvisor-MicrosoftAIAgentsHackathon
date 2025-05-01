@@ -1,11 +1,15 @@
 # StartKenya Endeleza AI Business Advisor
 
 *Submission for the Microsoft AI Agents Hackathon*
+---
+## 🎥 Demo & Pitch Deck
 
+- **Video demo**: [Watch here](<VIDEO_LINK>)  
+- **Pitch deck**: [View here](<https://drive.google.com/file/d/1W_6IbqUsEp8BdL34elK-1PlBgH71QGEf/view?usp=sharing>)  
+---
 ![Front Cover](./docs/front_cover.png)  
 
 ---
-
 ## 🎯 Overview
 
 **StartKenya** is an AI agent designed to help young entrepreneurs in Kenya turn complex data into clear, actionable insights. By seamlessly integrating internal World Bank datasets, local PDF resources, and internet search, our agent empowers users to:
@@ -16,11 +20,6 @@
 
 > _“An AI Agent for young entrepreneurs—transforming complex data into clear, actionable insights to unlock new opportunities.”_
 
----
-## 🎥 Demo & Pitch Deck
-
-- **Video demo**: [Watch here](<VIDEO_LINK>)  
-- **Pitch deck**: [View here](<PITCH_DECK_LINK>)  
 ---
 
 ## 🌍 Our Mission
